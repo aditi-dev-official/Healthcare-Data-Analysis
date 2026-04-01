@@ -1,2 +1,7 @@
-# Healthcare-Data-Analysis
-Analyzes healthcare claims, patient data, and workflows to identify inefficiencies and improve decision-making. Simulates a real-world environment using datasets on claims, demographics, and provider performance, including requirement gathering to support business analysis.
+# Healthcare Data Analysis
+This project focuses on analyzing healthcare data to identify operational inefficiencies and support data-driven decision-making in a hospital environment. The objective is to evaluate patient trends, resource utilization, and treatment costs to improve overall hospital performance.
+The analysis includes data cleaning, feature engineering, KPI development, and visualization using Python. Key performance indicators such as patient volume, average treatment cost, and length of stay were used to measure operational efficiency.
+Department-wise analysis was performed to identify high-load areas and variations in patient stay duration, helping highlight potential bottlenecks in hospital processes. Time-based analysis of admissions was conducted to identify peak periods, enabling better workforce and resource planning.
+Visualizations such as bar charts and line graphs were used to present insights related to patient distribution, admission trends, and cost variations across departments. These insights were further translated into actionable recommendations for improving hospital operations.
+The project simulates the role of a Business Analyst by combining technical analysis with business understanding. It demonstrates the ability to transform raw healthcare data into meaningful insights that support strategic decision-making and operational optimization.
+Tools & Technologies: Python, Pandas, Matplotlib
